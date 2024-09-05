@@ -1,2 +1,2 @@
 # casted-out
-## Casted Outs' modpack is stored here!
+Casted Outs' modpack is stored here!
